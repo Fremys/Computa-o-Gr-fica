@@ -14,7 +14,7 @@ Ferramentas: Jupyter Notebook
 # Como Executar o Projeto
 Clone este repositório: git clone https://github.com/Fremys/Roteamento.git
 
-Navegue até o diretório do projeto: cd
+Navegue até o diretório do projeto: cd IaWithGraphComputer
 
 Instale as dependências: pip install pandas
 
